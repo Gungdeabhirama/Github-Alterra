@@ -1,1 +1,0 @@
-Ini adalah halaman features 2 dari belajar git dan github 
